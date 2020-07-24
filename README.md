@@ -1,7 +1,7 @@
 
 ### :speaker: Contact me    
-1. **email:`islongfei@163.com`**   
-2. **wechat:`wlfbwwx`**
+1. >**email:`islongfei@163.com`**   
+2. >**wechat:`wlfbwwx`**
 <!--
 **islongfei/islongfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
