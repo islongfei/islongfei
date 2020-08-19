@@ -1,5 +1,5 @@
 
-### :speaker: Contact me    
+### 👋Contact me    
 >**email: islongfei@163.com**   
 >**wechat: wlfbwwx**
 <!--
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 💬 Contact me islongfei@163.com 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
+
 -->
