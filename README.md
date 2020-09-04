@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=vue) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=vue&include_all_commits=true) 
 
  
 >**:telephone_receiver: Contact me by wechat : `wlfbwwx`**  
