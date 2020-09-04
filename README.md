@@ -1,7 +1,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=vue) 
-### 👋contact me    
->**email: islongfei@163.com**   
->**wechat: wlfbwwx**
+
+ 
+>**💬Contact me on wechat : `wlfbwwx`**
 <!--
 **islongfei/islongfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
