@@ -1,5 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=vue)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=buefy) 
 ### 👋contact me    
 >**email: islongfei@163.com**   
 >**wechat: wlfbwwx**
