@@ -2,7 +2,7 @@
 
 * `apache rocketmq contributor` 
 * `apache dubbo contributor`  
-* `meituan leaf Contributor`
+* `meituan leaf contributor`
 
 
 
