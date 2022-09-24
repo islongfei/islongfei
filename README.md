@@ -1,8 +1,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=islongfei&show_icons=true&theme=vue&include_all_commits=true) 
 
-* `apache rocketmq contributor` 
-* `apache dubbo contributor`  
-* `meituan leaf contributor`
+* `Apache Rocketmq Contributor` 
+* `Apache Dubbo Contributor`  
+* `Meituan Leaf Contributor`
 
 
 
